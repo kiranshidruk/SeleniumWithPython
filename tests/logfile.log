@@ -1,0 +1,489 @@
+2021-10-11 19:25:52,389 : INFO : test_login : login page opened
+2021-10-11 19:25:52,389 : INFO : test_login : fill the data below
+2021-10-11 19:25:52,462 : INFO : test_login : firstname is Kiran
+2021-10-11 19:25:54,573 : INFO : test_login : firstname is Shidruk
+2021-10-11 19:26:25,396 : INFO : test_login : Thank you.
+2021-10-11 19:40:00,012 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-11 19:40:33,882 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-11 19:40:35,365 : INFO : test_e2e : iphone X
+2021-10-11 19:40:35,375 : INFO : test_e2e : Samsung Note 8
+2021-10-11 19:40:35,385 : INFO : test_e2e : Nokia Edge
+2021-10-11 19:40:35,394 : INFO : test_e2e : Blackberry
+2021-10-11 19:40:35,395 : INFO : test_e2e : The selected product is Blackberry
+2021-10-11 19:40:49,359 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-12 11:29:10,481 : INFO : test_login : login page opened
+2021-10-12 11:29:10,482 : INFO : test_login : fill the data below
+2021-10-12 11:29:14,685 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-12 11:29:15,950 : INFO : test_e2e : iphone X
+2021-10-12 11:29:15,991 : INFO : test_e2e : Samsung Note 8
+2021-10-12 11:29:16,031 : INFO : test_e2e : Nokia Edge
+2021-10-12 11:29:16,071 : INFO : test_e2e : Blackberry
+2021-10-12 11:29:16,072 : INFO : test_e2e : The selected product is Blackberry
+2021-10-12 11:29:30,583 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-12 11:32:25,564 : INFO : test_login : login page opened
+2021-10-12 11:32:25,564 : INFO : test_login : fill the data below
+2021-10-12 11:40:57,755 : INFO : test_login : login page opened
+2021-10-12 11:40:57,755 : INFO : test_login : fill the data below
+2021-10-12 11:45:59,459 : INFO : test_login : login page opened
+2021-10-12 11:45:59,459 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,358 : INFO : test_login : login page opened
+2021-10-12 11:48:20,358 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,363 : INFO : test_login : login page opened
+2021-10-12 11:48:20,363 : INFO : test_login : login page opened
+2021-10-12 11:48:20,363 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,363 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,368 : INFO : test_login : login page opened
+2021-10-12 11:48:20,368 : INFO : test_login : login page opened
+2021-10-12 11:48:20,368 : INFO : test_login : login page opened
+2021-10-12 11:48:20,368 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,368 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,368 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,372 : INFO : test_login : login page opened
+2021-10-12 11:48:20,372 : INFO : test_login : login page opened
+2021-10-12 11:48:20,372 : INFO : test_login : login page opened
+2021-10-12 11:48:20,372 : INFO : test_login : login page opened
+2021-10-12 11:48:20,372 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,372 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,372 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,372 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,375 : INFO : test_login : login page opened
+2021-10-12 11:48:20,375 : INFO : test_login : login page opened
+2021-10-12 11:48:20,375 : INFO : test_login : login page opened
+2021-10-12 11:48:20,375 : INFO : test_login : login page opened
+2021-10-12 11:48:20,375 : INFO : test_login : login page opened
+2021-10-12 11:48:20,376 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,376 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,376 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,376 : INFO : test_login : fill the data below
+2021-10-12 11:48:20,376 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,800 : INFO : test_login : login page opened
+2021-10-12 11:52:04,801 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,805 : INFO : test_login : login page opened
+2021-10-12 11:52:04,805 : INFO : test_login : login page opened
+2021-10-12 11:52:04,805 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,805 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,809 : INFO : test_login : login page opened
+2021-10-12 11:52:04,809 : INFO : test_login : login page opened
+2021-10-12 11:52:04,809 : INFO : test_login : login page opened
+2021-10-12 11:52:04,809 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,809 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,809 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,812 : INFO : test_login : login page opened
+2021-10-12 11:52:04,812 : INFO : test_login : login page opened
+2021-10-12 11:52:04,812 : INFO : test_login : login page opened
+2021-10-12 11:52:04,812 : INFO : test_login : login page opened
+2021-10-12 11:52:04,812 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,812 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,812 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,812 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,816 : INFO : test_login : login page opened
+2021-10-12 11:52:04,816 : INFO : test_login : login page opened
+2021-10-12 11:52:04,816 : INFO : test_login : login page opened
+2021-10-12 11:52:04,816 : INFO : test_login : login page opened
+2021-10-12 11:52:04,816 : INFO : test_login : login page opened
+2021-10-12 11:52:04,817 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,817 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,817 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,817 : INFO : test_login : fill the data below
+2021-10-12 11:52:04,817 : INFO : test_login : fill the data below
+2021-10-12 11:53:00,323 : INFO : test_login : login page opened
+2021-10-12 11:53:00,324 : INFO : test_login : fill the data below
+2021-10-12 11:55:44,590 : INFO : test_login : login page opened
+2021-10-12 11:55:44,590 : INFO : test_login : fill the data below
+2021-10-12 11:55:44,626 : INFO : test_login : login page opened
+2021-10-12 11:55:44,626 : INFO : test_login : login page opened
+2021-10-12 11:55:44,626 : INFO : test_login : fill the data below
+2021-10-12 11:55:44,626 : INFO : test_login : fill the data below
+2021-10-12 11:57:44,449 : INFO : test_login : login page opened
+2021-10-12 11:57:44,449 : INFO : test_login : fill the data below
+2021-10-12 11:57:44,501 : INFO : test_login : login page opened
+2021-10-12 11:57:44,501 : INFO : test_login : login page opened
+2021-10-12 11:57:44,502 : INFO : test_login : fill the data below
+2021-10-12 11:57:44,502 : INFO : test_login : fill the data below
+2021-10-12 11:59:02,176 : INFO : test_login : login page opened
+2021-10-12 11:59:02,176 : INFO : test_login : fill the data below
+2021-10-12 11:59:44,632 : INFO : test_login : login page opened
+2021-10-12 11:59:44,632 : INFO : test_login : login page opened
+2021-10-12 11:59:48,180 : INFO : test_login : fill the data below
+2021-10-12 11:59:48,180 : INFO : test_login : fill the data below
+2021-10-12 12:01:43,262 : INFO : test_login : login page opened
+2021-10-12 12:01:44,035 : INFO : test_login : fill the data below
+2021-10-12 12:04:41,314 : INFO : test_login : login page opened
+2021-10-12 12:04:41,314 : INFO : test_login : fill the data below
+2021-10-12 12:04:41,360 : INFO : test_login : login page opened
+2021-10-12 12:04:41,360 : INFO : test_login : login page opened
+2021-10-12 12:04:41,360 : INFO : test_login : fill the data below
+2021-10-12 12:04:41,360 : INFO : test_login : fill the data below
+2021-10-12 12:10:22,490 : INFO : test_login : login page opened
+2021-10-12 12:10:22,490 : INFO : test_login : fill the data below
+2021-10-12 12:10:22,524 : INFO : test_login : login page opened
+2021-10-12 12:10:22,524 : INFO : test_login : login page opened
+2021-10-12 12:10:22,524 : INFO : test_login : fill the data below
+2021-10-12 12:10:22,524 : INFO : test_login : fill the data below
+2021-10-12 12:12:50,388 : INFO : test_login : login page opened
+2021-10-12 12:12:50,389 : INFO : test_login : fill the data below
+2021-10-12 12:12:50,427 : INFO : test_login : login page opened
+2021-10-12 12:12:50,427 : INFO : test_login : login page opened
+2021-10-12 12:12:50,427 : INFO : test_login : fill the data below
+2021-10-12 12:12:50,427 : INFO : test_login : fill the data below
+2021-10-12 12:14:16,369 : INFO : test_login : login page opened
+2021-10-12 12:14:16,369 : INFO : test_login : fill the data below
+2021-10-12 12:14:16,406 : INFO : test_login : login page opened
+2021-10-12 12:14:16,406 : INFO : test_login : login page opened
+2021-10-12 12:14:16,406 : INFO : test_login : fill the data below
+2021-10-12 12:14:16,406 : INFO : test_login : fill the data below
+2021-10-12 12:16:43,739 : INFO : test_login : login page opened
+2021-10-12 12:16:43,739 : INFO : test_login : fill the data below
+2021-10-12 12:19:20,940 : INFO : test_login : login page opened
+2021-10-12 12:19:20,940 : INFO : test_login : fill the data below
+2021-10-12 12:21:48,404 : INFO : test_login : login page opened
+2021-10-12 12:21:48,404 : INFO : test_login : fill the data below
+2021-10-12 12:22:39,388 : INFO : test_login : login page opened
+2021-10-12 12:22:39,388 : INFO : test_login : fill the data below
+2021-10-12 12:22:39,391 : INFO : test_login : login page opened
+2021-10-12 12:22:39,391 : INFO : test_login : login page opened
+2021-10-12 12:22:39,392 : INFO : test_login : fill the data below
+2021-10-12 12:22:39,392 : INFO : test_login : fill the data below
+2021-10-12 12:22:53,208 : INFO : test_login : login page opened
+2021-10-12 12:22:53,208 : INFO : test_login : fill the data below
+2021-10-12 12:24:37,908 : INFO : test_login : login page opened
+2021-10-12 12:24:37,908 : INFO : test_login : fill the data below
+2021-10-12 12:27:52,055 : INFO : test_login : login page opened
+2021-10-12 12:27:52,055 : INFO : test_login : fill the data below
+2021-10-12 12:29:05,382 : INFO : test_login : login page opened
+2021-10-12 12:29:05,382 : INFO : test_login : fill the data below
+2021-10-12 12:32:17,634 : INFO : test_login : login page opened
+2021-10-12 12:32:17,634 : INFO : test_login : fill the data below
+2021-10-12 12:34:08,218 : INFO : test_login : login page opened
+2021-10-12 12:34:08,218 : INFO : test_login : fill the data below
+2021-10-12 12:34:56,162 : INFO : test_login : login page opened
+2021-10-12 12:34:56,163 : INFO : test_login : fill the data below
+2021-10-12 12:34:56,229 : INFO : test_login : firstname is KS
+2021-10-12 12:34:58,441 : INFO : test_login : lastname is SK
+2021-10-12 13:57:12,478 : INFO : test_login : login page opened
+2021-10-12 13:57:12,478 : INFO : test_login : fill the data below
+2021-10-12 13:57:12,523 : INFO : test_login : firstname is KS
+2021-10-12 13:57:14,560 : INFO : test_login : lastname is SK
+2021-10-12 13:57:42,067 : INFO : test_login : login page opened
+2021-10-12 13:57:42,067 : INFO : test_login : fill the data below
+2021-10-12 13:57:42,107 : INFO : test_login : firstname is KS
+2021-10-12 13:57:44,155 : INFO : test_login : lastname is SK
+2021-10-12 13:58:09,711 : INFO : test_login : login page opened
+2021-10-12 13:58:09,711 : INFO : test_login : fill the data below
+2021-10-12 13:58:09,771 : INFO : test_login : firstname is KS
+2021-10-12 13:58:11,875 : INFO : test_login : lastname is SK
+2021-10-12 13:58:47,887 : INFO : test_login : login page opened
+2021-10-12 13:58:47,887 : INFO : test_login : fill the data below
+2021-10-12 13:58:47,954 : INFO : test_login : firstname is KS
+2021-10-12 13:58:50,066 : INFO : test_login : lastname is SK
+2021-10-12 13:59:36,344 : INFO : test_login : login page opened
+2021-10-12 13:59:36,344 : INFO : test_login : fill the data below
+2021-10-12 13:59:36,411 : INFO : test_login : firstname is KS
+2021-10-12 13:59:38,507 : INFO : test_login : lastname is SK
+2021-10-12 14:01:11,165 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-12 14:01:30,330 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-12 14:01:31,258 : INFO : test_e2e : iphone X
+2021-10-12 14:01:31,268 : INFO : test_e2e : Samsung Note 8
+2021-10-12 14:01:31,277 : INFO : test_e2e : Nokia Edge
+2021-10-12 14:01:31,287 : INFO : test_e2e : Blackberry
+2021-10-12 14:01:31,287 : INFO : test_e2e : The selected product is Blackberry
+2021-10-12 14:01:45,390 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-12 14:02:04,875 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-12 14:02:06,241 : INFO : test_e2e : iphone X
+2021-10-12 14:02:06,251 : INFO : test_e2e : Samsung Note 8
+2021-10-12 14:02:06,261 : INFO : test_e2e : Nokia Edge
+2021-10-12 14:02:06,270 : INFO : test_e2e : Blackberry
+2021-10-12 14:02:06,271 : INFO : test_e2e : The selected product is Blackberry
+2021-10-12 14:02:20,275 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-12 14:03:49,464 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-12 14:03:50,381 : INFO : test_e2e : iphone X
+2021-10-12 14:03:50,391 : INFO : test_e2e : Samsung Note 8
+2021-10-12 14:03:50,400 : INFO : test_e2e : Nokia Edge
+2021-10-12 14:03:50,410 : INFO : test_e2e : Blackberry
+2021-10-12 14:03:50,410 : INFO : test_e2e : The selected product is Blackberry
+2021-10-12 14:04:04,411 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-12 14:06:39,208 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-12 14:06:40,246 : INFO : test_e2e : iphone X
+2021-10-12 14:06:40,256 : INFO : test_e2e : Samsung Note 8
+2021-10-12 14:06:40,266 : INFO : test_e2e : Nokia Edge
+2021-10-12 14:06:40,276 : INFO : test_e2e : Blackberry
+2021-10-12 14:06:40,277 : INFO : test_e2e : The selected product is Blackberry
+2021-10-12 14:06:54,286 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-12 14:07:59,079 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-12 14:07:59,980 : INFO : test_e2e : iphone X
+2021-10-12 14:07:59,991 : INFO : test_e2e : Samsung Note 8
+2021-10-12 14:08:00,001 : INFO : test_e2e : Nokia Edge
+2021-10-12 14:08:00,011 : INFO : test_e2e : Blackberry
+2021-10-12 14:08:00,011 : INFO : test_e2e : The selected product is Blackberry
+2021-10-12 14:08:14,027 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-25 11:21:27,231 : INFO : test_login : login page opened
+2021-10-25 11:21:27,232 : INFO : test_login : fill the data below
+2021-10-25 11:21:27,263 : INFO : test_login : firstname is KS
+2021-10-25 11:21:29,315 : INFO : test_login : lastname is SK
+2021-10-25 11:23:00,569 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-25 11:23:01,507 : INFO : test_e2e : iphone X
+2021-10-25 11:23:01,519 : INFO : test_e2e : Samsung Note 8
+2021-10-25 11:23:01,528 : INFO : test_e2e : Nokia Edge
+2021-10-25 11:23:01,538 : INFO : test_e2e : Blackberry
+2021-10-25 11:23:01,538 : INFO : test_e2e : The selected product is Blackberry
+2021-10-25 11:23:15,519 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-25 11:47:52,831 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-25 11:47:53,797 : INFO : test_e2e : iphone X
+2021-10-25 11:47:53,814 : INFO : test_e2e : Samsung Note 8
+2021-10-25 11:47:53,830 : INFO : test_e2e : Nokia Edge
+2021-10-25 11:47:53,842 : INFO : test_e2e : Blackberry
+2021-10-25 11:47:53,842 : INFO : test_e2e : The selected product is Blackberry
+2021-10-25 11:48:07,757 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-25 12:06:59,324 : INFO : test_login : login page opened
+2021-10-25 12:06:59,324 : INFO : test_login : fill the data below
+2021-10-25 12:07:03,640 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-25 14:48:19,571 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-25 14:48:20,559 : INFO : test_e2e : iphone X
+2021-10-25 14:48:20,573 : INFO : test_e2e : Samsung Note 8
+2021-10-25 14:48:20,586 : INFO : test_e2e : Nokia Edge
+2021-10-25 14:48:20,599 : INFO : test_e2e : Blackberry
+2021-10-25 14:48:20,599 : INFO : test_e2e : The selected product is Blackberry
+2021-10-25 14:48:34,667 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-25 17:54:36,562 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-25 18:46:44,817 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-25 18:46:45,780 : INFO : test_e2e : iphone X
+2021-10-25 18:46:45,790 : INFO : test_e2e : Samsung Note 8
+2021-10-25 18:46:45,800 : INFO : test_e2e : Nokia Edge
+2021-10-25 18:46:45,810 : INFO : test_e2e : Blackberry
+2021-10-25 18:46:45,810 : INFO : test_e2e : The selected product is Blackberry
+2021-10-25 18:46:59,696 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-25 19:40:15,504 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-25 19:40:16,515 : INFO : test_e2e : iphone X
+2021-10-25 19:40:16,524 : INFO : test_e2e : Samsung Note 8
+2021-10-25 19:40:16,533 : INFO : test_e2e : Nokia Edge
+2021-10-25 19:40:16,542 : INFO : test_e2e : Blackberry
+2021-10-25 19:40:16,542 : INFO : test_e2e : The selected product is Blackberry
+2021-10-25 19:40:30,453 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 12:53:34,547 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 12:53:35,518 : INFO : test_e2e : iphone X
+2021-10-26 12:53:35,540 : INFO : test_e2e : Samsung Note 8
+2021-10-26 12:53:35,562 : INFO : test_e2e : Nokia Edge
+2021-10-26 12:53:35,582 : INFO : test_e2e : Blackberry
+2021-10-26 12:53:35,583 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 12:53:50,491 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 12:56:00,152 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 12:56:01,686 : INFO : test_e2e : iphone X
+2021-10-26 12:56:01,728 : INFO : test_e2e : Samsung Note 8
+2021-10-26 12:56:01,771 : INFO : test_e2e : Nokia Edge
+2021-10-26 12:56:01,812 : INFO : test_e2e : Blackberry
+2021-10-26 12:56:01,812 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 12:56:16,785 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 13:50:57,864 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 13:50:59,232 : INFO : test_e2e : iphone X
+2021-10-26 13:50:59,275 : INFO : test_e2e : Samsung Note 8
+2021-10-26 13:50:59,322 : INFO : test_e2e : Nokia Edge
+2021-10-26 13:50:59,345 : INFO : test_e2e : Blackberry
+2021-10-26 13:50:59,345 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 13:51:13,562 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 16:20:07,798 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 16:20:08,790 : INFO : test_e2e : iphone X
+2021-10-26 16:20:08,800 : INFO : test_e2e : Samsung Note 8
+2021-10-26 16:20:08,809 : INFO : test_e2e : Nokia Edge
+2021-10-26 16:20:08,819 : INFO : test_e2e : Blackberry
+2021-10-26 16:20:08,819 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 16:20:22,873 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 16:21:11,455 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 16:21:12,705 : INFO : test_e2e : iphone X
+2021-10-26 16:21:12,715 : INFO : test_e2e : Samsung Note 8
+2021-10-26 16:21:12,725 : INFO : test_e2e : Nokia Edge
+2021-10-26 16:21:12,735 : INFO : test_e2e : Blackberry
+2021-10-26 16:21:12,736 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 16:21:26,744 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 16:22:18,247 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 16:22:19,210 : INFO : test_e2e : iphone X
+2021-10-26 16:22:19,221 : INFO : test_e2e : Samsung Note 8
+2021-10-26 16:22:19,230 : INFO : test_e2e : Nokia Edge
+2021-10-26 16:22:19,240 : INFO : test_e2e : Blackberry
+2021-10-26 16:22:19,240 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 16:22:33,797 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 16:25:08,346 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 16:25:09,303 : INFO : test_e2e : iphone X
+2021-10-26 16:25:09,313 : INFO : test_e2e : Samsung Note 8
+2021-10-26 16:25:09,323 : INFO : test_e2e : Nokia Edge
+2021-10-26 16:25:09,333 : INFO : test_e2e : Blackberry
+2021-10-26 16:25:09,333 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 16:25:23,875 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 16:26:09,392 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 16:26:10,238 : INFO : test_e2e : iphone X
+2021-10-26 16:26:10,249 : INFO : test_e2e : Samsung Note 8
+2021-10-26 16:26:10,259 : INFO : test_e2e : Nokia Edge
+2021-10-26 16:26:10,268 : INFO : test_e2e : Blackberry
+2021-10-26 16:26:10,268 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 16:26:24,770 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 16:27:46,276 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 16:27:47,268 : INFO : test_e2e : iphone X
+2021-10-26 16:27:47,280 : INFO : test_e2e : Samsung Note 8
+2021-10-26 16:27:47,291 : INFO : test_e2e : Nokia Edge
+2021-10-26 16:27:47,303 : INFO : test_e2e : Blackberry
+2021-10-26 16:27:47,303 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 16:28:01,791 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-26 16:56:35,830 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-26 16:56:36,812 : INFO : test_e2e : iphone X
+2021-10-26 16:56:36,822 : INFO : test_e2e : Samsung Note 8
+2021-10-26 16:56:36,832 : INFO : test_e2e : Nokia Edge
+2021-10-26 16:56:36,841 : INFO : test_e2e : Blackberry
+2021-10-26 16:56:36,841 : INFO : test_e2e : The selected product is Blackberry
+2021-10-26 16:56:50,708 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 11:54:57,393 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 11:54:58,448 : INFO : test_e2e : iphone X
+2021-10-29 11:54:58,458 : INFO : test_e2e : Samsung Note 8
+2021-10-29 11:54:58,467 : INFO : test_e2e : Nokia Edge
+2021-10-29 11:54:58,476 : INFO : test_e2e : Blackberry
+2021-10-29 11:54:58,476 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 11:55:13,006 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 12:06:20,438 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 12:06:21,339 : INFO : test_e2e : iphone X
+2021-10-29 12:06:21,350 : INFO : test_e2e : Samsung Note 8
+2021-10-29 12:06:21,360 : INFO : test_e2e : Nokia Edge
+2021-10-29 12:06:21,370 : INFO : test_e2e : Blackberry
+2021-10-29 12:06:21,370 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 12:06:35,375 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 12:16:54,552 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 12:16:55,812 : INFO : test_e2e : iphone X
+2021-10-29 12:16:55,831 : INFO : test_e2e : Samsung Note 8
+2021-10-29 12:16:55,849 : INFO : test_e2e : Nokia Edge
+2021-10-29 12:16:55,867 : INFO : test_e2e : Blackberry
+2021-10-29 12:16:55,867 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 12:17:09,788 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 12:20:35,167 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 12:20:36,221 : INFO : test_e2e : iphone X
+2021-10-29 12:20:36,232 : INFO : test_e2e : Samsung Note 8
+2021-10-29 12:20:36,242 : INFO : test_e2e : Nokia Edge
+2021-10-29 12:20:36,252 : INFO : test_e2e : Blackberry
+2021-10-29 12:20:36,252 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 12:20:50,204 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 12:22:26,368 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 12:22:27,330 : INFO : test_e2e : iphone X
+2021-10-29 12:22:27,342 : INFO : test_e2e : Samsung Note 8
+2021-10-29 12:22:27,352 : INFO : test_e2e : Nokia Edge
+2021-10-29 12:22:27,362 : INFO : test_e2e : Blackberry
+2021-10-29 12:22:27,362 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 12:22:41,387 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 12:24:32,622 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 12:24:33,645 : INFO : test_e2e : iphone X
+2021-10-29 12:24:33,656 : INFO : test_e2e : Samsung Note 8
+2021-10-29 12:24:33,665 : INFO : test_e2e : Nokia Edge
+2021-10-29 12:24:33,674 : INFO : test_e2e : Blackberry
+2021-10-29 12:24:33,674 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 12:24:47,581 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 12:36:03,571 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 12:36:04,578 : INFO : test_e2e : iphone X
+2021-10-29 12:36:04,594 : INFO : test_e2e : Samsung Note 8
+2021-10-29 12:36:04,606 : INFO : test_e2e : Nokia Edge
+2021-10-29 12:36:04,619 : INFO : test_e2e : Blackberry
+2021-10-29 12:36:04,620 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 12:36:18,621 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 13:07:46,003 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 13:07:46,847 : INFO : test_e2e : iphone X
+2021-10-29 13:07:46,853 : INFO : test_e2e : Samsung Note 8
+2021-10-29 13:07:46,859 : INFO : test_e2e : Nokia Edge
+2021-10-29 13:07:46,864 : INFO : test_e2e : Blackberry
+2021-10-29 13:07:46,864 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 13:08:01,951 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 14:24:06,279 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 14:24:08,846 : INFO : test_e2e : iphone X
+2021-10-29 14:24:08,856 : INFO : test_e2e : Samsung Note 8
+2021-10-29 14:24:08,865 : INFO : test_e2e : Nokia Edge
+2021-10-29 14:24:08,875 : INFO : test_e2e : Blackberry
+2021-10-29 14:24:08,875 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 14:24:22,854 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 14:28:27,870 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 14:28:28,975 : INFO : test_e2e : iphone X
+2021-10-29 14:28:28,988 : INFO : test_e2e : Samsung Note 8
+2021-10-29 14:28:29,000 : INFO : test_e2e : Nokia Edge
+2021-10-29 14:28:29,010 : INFO : test_e2e : Blackberry
+2021-10-29 14:28:29,010 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 14:28:42,914 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 14:29:39,786 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 14:29:40,796 : INFO : test_e2e : iphone X
+2021-10-29 14:29:40,811 : INFO : test_e2e : Samsung Note 8
+2021-10-29 14:29:40,827 : INFO : test_e2e : Nokia Edge
+2021-10-29 14:29:40,838 : INFO : test_e2e : Blackberry
+2021-10-29 14:29:40,839 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 14:29:54,830 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 17:25:57,854 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 17:25:58,867 : INFO : test_e2e : iphone X
+2021-10-29 17:25:58,876 : INFO : test_e2e : Samsung Note 8
+2021-10-29 17:25:58,885 : INFO : test_e2e : Nokia Edge
+2021-10-29 17:25:58,894 : INFO : test_e2e : Blackberry
+2021-10-29 17:25:58,895 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 17:26:12,817 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 17:28:33,932 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 17:28:35,151 : INFO : test_e2e : iphone X
+2021-10-29 17:28:35,161 : INFO : test_e2e : Samsung Note 8
+2021-10-29 17:28:35,171 : INFO : test_e2e : Nokia Edge
+2021-10-29 17:28:35,181 : INFO : test_e2e : Blackberry
+2021-10-29 17:28:35,181 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 17:28:49,143 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 17:29:46,024 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 17:29:48,160 : INFO : test_e2e : iphone X
+2021-10-29 17:29:48,165 : INFO : test_e2e : Samsung Note 8
+2021-10-29 17:29:48,172 : INFO : test_e2e : Nokia Edge
+2021-10-29 17:29:48,178 : INFO : test_e2e : Blackberry
+2021-10-29 17:29:48,178 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 17:30:03,213 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 17:37:20,811 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 17:37:22,423 : INFO : test_e2e : iphone X
+2021-10-29 17:37:22,439 : INFO : test_e2e : Samsung Note 8
+2021-10-29 17:37:22,452 : INFO : test_e2e : Nokia Edge
+2021-10-29 17:37:22,462 : INFO : test_e2e : Blackberry
+2021-10-29 17:37:22,462 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 17:37:36,465 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-29 17:39:18,178 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-10-29 17:39:19,042 : INFO : test_e2e : iphone X
+2021-10-29 17:39:19,049 : INFO : test_e2e : Samsung Note 8
+2021-10-29 17:39:19,056 : INFO : test_e2e : Nokia Edge
+2021-10-29 17:39:19,061 : INFO : test_e2e : Blackberry
+2021-10-29 17:39:19,062 : INFO : test_e2e : The selected product is Blackberry
+2021-10-29 17:39:34,145 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-11-01 10:49:16,993 : INFO : test_e2e : Lets start with End-to-End Framework
+2021-11-01 10:49:18,546 : INFO : test_e2e : iphone X
+2021-11-01 10:49:18,587 : INFO : test_e2e : Samsung Note 8
+2021-11-01 10:49:18,610 : INFO : test_e2e : Nokia Edge
+2021-11-01 10:49:18,625 : INFO : test_e2e : Blackberry
+2021-11-01 10:49:18,625 : INFO : test_e2e : The selected product is Blackberry
+2021-11-01 10:49:32,510 : INFO : test_e2e : The final text is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

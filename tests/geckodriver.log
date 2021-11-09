@@ -1,0 +1,105 @@
+1634020966390	geckodriver	INFO	Listening on 127.0.0.1:56493
+1634020967408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHRUIjn"
+1634020968278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHRUIjn/search.json.mozlz4", (void 0)))
+1634020969533	Marionette	INFO	Listening on port 42171
+1634020969665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634020970467	Marionette	INFO	Stopped listening on port 42171
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634021052855	geckodriver	INFO	Listening on 127.0.0.1:43273
+1634021053871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1VUEEW"
+1634021054675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1VUEEW/search.json.mozlz4", (void 0)))
+1634021055644	Marionette	INFO	Listening on port 44323
+1634021055692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634021056442	Marionette	INFO	Stopped listening on port 44323
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634027223257	geckodriver	INFO	Listening on 127.0.0.1:54355
+1634027224264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0qwzWI"
+1634027224994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0qwzWI/search.json.mozlz4", (void 0)))
+1634027226246	Marionette	INFO	Listening on port 41133
+1634027226285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634027234951	Marionette	INFO	Stopped listening on port 41133
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634027252033	geckodriver	INFO	Listening on 127.0.0.1:57467
+1634027252043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilej37Wey"
+1634027252790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej37Wey/search.json.mozlz4", (void 0)))
+1634027253987	Marionette	INFO	Listening on port 38663
+1634027254064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634027264271	Marionette	INFO	Stopped listening on port 38663
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635141077584	geckodriver	INFO	Listening on 127.0.0.1:35099
+1635141078602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecYKsri"
+1635141079406	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecYKsri/search.json.mozlz4", (void 0)))
+1635141080421	Marionette	INFO	Listening on port 43699
+1635141080541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635141098720	Marionette	INFO	Stopped listening on port 43699
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635492746389	geckodriver	INFO	Listening on 127.0.0.1:60839
+1635492747410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9qZy83"
+Error: no DISPLAY environment variable specified
+1635493060866	geckodriver	INFO	Listening on 127.0.0.1:41701
+1635493061880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--window-size=1420,1080" "--headless" "--disable-gpu" "-no-remote" "-profile" "/tmp/rust_mozprofileupSRB4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+1635493062288	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileupSRB4/search.json.mozlz4", (void 0)))
+1635493063394	Marionette	INFO	Listening on port 40591
+1635493063534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1635493087026	Marionette	INFO	Stopped listening on port 40591
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635508780718	geckodriver	INFO	Listening on 127.0.0.1:38485
+1635508781735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--window-size=1420,1080" "--headless" "--disable-gpu" "-no-remote" "-profile" "/tmp/rust_mozprofileRCpbnN"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+1635508782128	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRCpbnN/search.json.mozlz4", (void 0)))
+1635508783507	Marionette	INFO	Listening on port 42185
+1635508783567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1635508808309	Marionette	INFO	Stopped listening on port 42185
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635509352928	geckodriver	INFO	Listening on 127.0.0.1:38897
+1635509353942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--window-size=1420,1080" "--headless" "--disable-gpu" "-no-remote" "-profile" "/tmp/rust_mozprofilevy5mxA"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+1635509354345	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevy5mxA/search.json.mozlz4", (void 0)))
+1635509355700	Marionette	INFO	Listening on port 32807
+1635509355782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1635509379219	Marionette	INFO	Stopped listening on port 32807
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
